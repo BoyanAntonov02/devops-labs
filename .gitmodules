@@ -1,0 +1,3 @@
+[submodule "linux/lfcs"]
+	path = linux/lfcs
+	url = https://github.com/theurbanpenguin/lfcs
